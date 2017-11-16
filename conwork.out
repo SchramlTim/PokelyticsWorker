@@ -1,0 +1,47 @@
+nohup: ignoring input
+ [*] Waiting for messages. To exit press CTRL+C
+08:37:53 - SendMessageToTelegram - -1001122257010 - 179 - 1510862789
+https://api.telegram.org/bot321375264:AAGXcl9GZ9Tw3BYdfe-DcWk88pY_dX1HeGk/sendPhoto?chat_id=-1001122257010&photo=http://pokelytics.de/img/pokemon/179.png&caption=Voltilamm+-+Karl-Weber-Stra%C3%9Fe+28%2C+73037+G%C3%B6ppingen%2C+Germany+-+21%3A06%3A29+-+https%3A%2F%2Fmaps.google.com%2F%3Fdaddr%3D48.686947%2C9.688589
+08:37:53 - TelegramSuccess - -1001122257010 - 1
+08:38:53 - SendMessageToTelegram - -1001111596800 - 232 - 1510862567
+https://api.telegram.org/bot321375264:AAGXcl9GZ9Tw3BYdfe-DcWk88pY_dX1HeGk/sendPhoto?chat_id=-1001111596800&photo=http://pokelytics.de/img/pokemon/232.png&caption=Donphan+-+Jenaer+Str.+4-6%2C+67663+Kaiserslautern%2C+Germany+-+21%3A02%3A47+-+https%3A%2F%2Fmaps.google.com%2F%3Fdaddr%3D49.432163%2C7.721803
+08:38:53 - SendMessageToTelegram - -1001111596800 - 232 - 1510862706
+https://api.telegram.org/bot321375264:AAGXcl9GZ9Tw3BYdfe-DcWk88pY_dX1HeGk/sendPhoto?chat_id=-1001111596800&photo=http://pokelytics.de/img/pokemon/232.png&caption=Donphan+-+L503%2C+67663+Kaiserslautern%2C+Germany+-+21%3A05%3A06+-+https%3A%2F%2Fmaps.google.com%2F%3Fdaddr%3D49.418278%2C7.748962
+08:38:53 - TelegramSuccess - -1001111596800 - 1
+08:38:53 - TelegramSuccess - -1001111596800 - 1
+08:39:53 - SendMessageToTelegram - -1001111596800 - 232 - 1510862899
+https://api.telegram.org/bot321375264:AAGXcl9GZ9Tw3BYdfe-DcWk88pY_dX1HeGk/sendPhoto?chat_id=-1001111596800&photo=http://pokelytics.de/img/pokemon/232.png&caption=Donphan+-+Alex-M%C3%BCller-Stra%C3%9Fe+106-108%2C+67657+Kaiserslautern%2C+Germany+-+21%3A08%3A19+-+https%3A%2F%2Fmaps.google.com%2F%3Fdaddr%3D49.454815%2C7.774694
+08:39:53 - TelegramSuccess - -1001111596800 - 1
+08:40:53 - SendMessageToTelegram - -1001118986248 - 179 - 1510862706
+https://api.telegram.org/bot321375264:AAGXcl9GZ9Tw3BYdfe-DcWk88pY_dX1HeGk/sendPhoto?chat_id=-1001118986248&photo=http://pokelytics.de/img/pokemon/179.png&caption=Voltilamm+-+Sanatoriumsweg+48%2C+72574+Bad+Urach%2C+Germany+-+21%3A05%3A06+-+https%3A%2F%2Fmaps.google.com%2F%3Fdaddr%3D48.49287%2C9.407851
+08:40:53 - TelegramSuccess - -1001118986248 - 1
+08:41:53 - SendMessageToTelegram - -1001052237459 - 181 - 1510864253
+https://api.telegram.org/bot321375264:AAGXcl9GZ9Tw3BYdfe-DcWk88pY_dX1HeGk/sendPhoto?chat_id=-1001052237459&photo=http://pokelytics.de/img/pokemon/181.png&caption=Ampharos+-+Kleingartenanlage+1%2C+72793+Pfullingen%2C+Germany+-+21%3A30%3A53+-+https%3A%2F%2Fmaps.google.com%2F%3Fdaddr%3D48.458794%2C9.187599
+08:41:53 - SendMessageToTelegram - -1001052237459 - 59 - 1510862607
+https://api.telegram.org/bot321375264:AAGXcl9GZ9Tw3BYdfe-DcWk88pY_dX1HeGk/sendPhoto?chat_id=-1001052237459&photo=http://pokelytics.de/img/pokemon/59.png&caption=Arkani+-+Nelkenstra%C3%9Fe+62%2C+72764+Reutlingen%2C+Germany+-+21%3A03%3A27+-+https%3A%2F%2Fmaps.google.com%2F%3Fdaddr%3D48.47485%2C9.216016
+08:41:54 - TelegramSuccess - -1001052237459 - 1
+08:41:54 - TelegramSuccess - -1001052237459 - 1
+08:43:53 - SendMessageToTelegram - -1001118986248 - 176 - 1510863072
+https://api.telegram.org/bot321375264:AAGXcl9GZ9Tw3BYdfe-DcWk88pY_dX1HeGk/sendPhoto?chat_id=-1001118986248&photo=http://pokelytics.de/img/pokemon/176.png&caption=Togetic+-+H%C3%B6henfreibad+1%2C+72574+Bad+Urach%2C+Germany+-+21%3A11%3A12+-+https%3A%2F%2Fmaps.google.com%2F%3Fdaddr%3D48.491383%2C9.388571
+08:43:53 - TelegramSuccess - -1001118986248 - 1
+08:44:53 - SendMessageToTelegram - -1001110036603 - 180 - 1510863194
+https://api.telegram.org/bot321375264:AAGXcl9GZ9Tw3BYdfe-DcWk88pY_dX1HeGk/sendPhoto?chat_id=-1001110036603&photo=http://pokelytics.de/img/pokemon/180.png&caption=Waaty+-+K2148%2C+74906+Bad+Rappenau%2C+Germany+-+21%3A13%3A14+-+https%3A%2F%2Fmaps.google.com%2F%3Fdaddr%3D49.26717%2C9.146021
+08:44:53 - TelegramSuccess - -1001110036603 - 1
+08:45:53 - SendMessageToTelegram - -1001129311744 - 246 - 1510863259
+https://api.telegram.org/bot321375264:AAGXcl9GZ9Tw3BYdfe-DcWk88pY_dX1HeGk/sendPhoto?chat_id=-1001129311744&photo=http://pokelytics.de/img/pokemon/246.png&caption=Larvitar+-+Kaiserstra%C3%9Fe%2C+73655%2C+Germany+-+21%3A14%3A19+-+https%3A%2F%2Fmaps.google.com%2F%3Fdaddr%3D48.781273%2C9.592219
+08:45:53 - SendMessageToTelegram - -1001052237459 - 149 - 1510863198
+https://api.telegram.org/bot321375264:AAGXcl9GZ9Tw3BYdfe-DcWk88pY_dX1HeGk/sendPhoto?chat_id=-1001052237459&photo=http://pokelytics.de/img/pokemon/149.png&caption=Dragoran+-+Unnamed+Road%2C+72555+Metzingen%2C+Germany+-+21%3A13%3A18+-+https%3A%2F%2Fmaps.google.com%2F%3Fdaddr%3D48.554504%2C9.307706
+08:45:53 - TelegramSuccess - -1001129311744 - 1
+08:45:54 - TelegramSuccess - -1001052237459 - 1
+08:46:53 - SendMessageToTelegram - -1001135712800 - 147 - 1510863316
+https://api.telegram.org/bot321375264:AAGXcl9GZ9Tw3BYdfe-DcWk88pY_dX1HeGk/sendPhoto?chat_id=-1001135712800&photo=http://pokelytics.de/img/pokemon/147.png&caption=Dratini+-+Leonbronner+Str.+28%2C+74374+Zaberfeld%2C+Germany+-+21%3A15%3A16+-+https%3A%2F%2Fmaps.google.com%2F%3Fdaddr%3D49.058792%2C8.92333
+08:46:53 - TelegramSuccess - -1001135712800 - 1
+08:47:53 - SendMessageToTelegram - -1001135877681 - 71 - 1510863396
+https://api.telegram.org/bot321375264:AAGXcl9GZ9Tw3BYdfe-DcWk88pY_dX1HeGk/sendPhoto?chat_id=-1001135877681&photo=http://pokelytics.de/img/pokemon/71.png&caption=Sarzenia+-+Sebastian-Kneipp-Stra%C3%9Fe+5%2C+78048+Villingen-Schwenningen%2C+Germany+-+21%3A16%3A36+-+https%3A%2F%2Fmaps.google.com%2F%3Fdaddr%3D48.067085%2C8.43746
+08:47:53 - TelegramSuccess - -1001135877681 - 1
+08:48:53 - SendMessageToTelegram - -1001121887826 - 147 - 1510863487
+https://api.telegram.org/bot321375264:AAGXcl9GZ9Tw3BYdfe-DcWk88pY_dX1HeGk/sendPhoto?chat_id=-1001121887826&photo=http://pokelytics.de/img/pokemon/147.png&caption=Dratini+-+Wilhelm-Busch-Weg%2C+71116+G%C3%A4rtringen%2C+Germany+-+21%3A18%3A07+-+https%3A%2F%2Fmaps.google.com%2F%3Fdaddr%3D48.645798%2C8.907766
+08:48:53 - TelegramSuccess - -1001121887826 - 1
+08:49:53 - SendMessageToTelegram - -1001111596800 - 246 - 1510861806
+https://api.telegram.org/bot321375264:AAGXcl9GZ9Tw3BYdfe-DcWk88pY_dX1HeGk/sendPhoto?chat_id=-1001111596800&photo=http://pokelytics.de/img/pokemon/246.png&caption=Larvitar+-+Talstra%C3%9Fe+56%2C+67659+Kaiserslautern%2C+Germany+-+20%3A50%3A06+-+https%3A%2F%2Fmaps.google.com%2F%3Fdaddr%3D49.467564%2C7.728933
+08:49:53 - TelegramSuccess - -1001111596800 - 1

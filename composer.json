@@ -1,0 +1,9 @@
+{
+    "require": {
+        "react/react": "^0.4.2",
+	"khr/react-mysql": "*",
+        "khr/react-curl": "^2.0",
+        "php-amqplib/php-amqplib": "v2.6.3",
+        "bunny/bunny": "@dev"
+    }
+}

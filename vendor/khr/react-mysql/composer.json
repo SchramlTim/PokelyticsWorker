@@ -1,0 +1,19 @@
+{
+  "name": "khr/react-mysql",
+  "description": "Asynchronous & non-blocking MySQL driver for React.PHP",
+  "license": "None",
+  "authors": [{
+    "name": "Yura",
+    "email": "khristenkoyura@gmail.com"
+  }],
+  "require": {
+    "php": ">=5.4.0",
+    "react/promise": "~2.0",
+    "react/event-loop": "~0.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "KHR\\React\\Mysql\\": "src/"
+    }
+  }
+}
